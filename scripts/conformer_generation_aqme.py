@@ -62,7 +62,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    work_dir = Path.home() / "target-elucidation"
+    work_dir = Path(__file__).resolve().parents[1]
     input_dir = work_dir / "data/raw"
 
     csv_file = input_dir / str(args.input)
