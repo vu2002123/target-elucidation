@@ -1,0 +1,63 @@
+AQME v 2.0.0 2026/03/24 03:01:09 
+Citation: AQME v 2.0.0, Alegre-Requena, J. V.; Sowndarya, S.; Perez-Soto, R.; Alturaifi, T.; Paton, R. AQME: Automated Quantum Mechanical Environments for Researchers and Educators. Wiley Interdiscip. Rev. Comput. Mol. Sci. 2023, 13, e1663 (DOI: 10.1002/wcms.1663).
+
+
+Starting CSEARCH with 8 job(s) (SDF, XYZ, CSV, etc. files might contain multiple jobs/structures inside)
+
+
+   ----- Prinomastat -----
+
+   ----- Crizotinib -----
+
+o  Starting RDKit conformer sampling (Prinomastat)
+
+o  Starting RDKit conformer sampling (Crizotinib)
+
+   ----- Ceritinib -----
+
+   ----- Afatinib -----
+
+o  Starting RDKit conformer sampling (Ceritinib)
+
+o  Starting RDKit conformer sampling (Afatinib)
+
+o  Applying filters to initial conformers (Crizotinib)
+
+   ----- Erlotinib -----
+
+o  Starting RDKit conformer sampling (Erlotinib)
+
+o  Applying filters to initial conformers (Prinomastat)
+
+o  Applying filters to initial conformers (Afatinib)
+
+   ----- Lorlatinib -----
+
+o  Starting RDKit conformer sampling (Lorlatinib)
+
+o  Applying filters to initial conformers (Ceritinib)
+
+   ----- Osimertinib -----
+
+o  Starting RDKit conformer sampling (Osimertinib)
+
+o  Applying filters to initial conformers (Erlotinib)
+
+o  Applying filters to initial conformers (Lorlatinib)
+
+   ----- Alectinib -----
+
+o  Starting RDKit conformer sampling (Alectinib)
+
+o  Applying filters to initial conformers (Osimertinib)
+
+o  Applying filters to initial conformers (Alectinib)
+
+o  Selecting 25 conformers using a combination of energies and Butina RMS-based clustering. Users might disable this option with --auto_cluster False (Erlotinib)
+
+o  Selecting 25 conformers using a combination of energies and Butina RMS-based clustering. Users might disable this option with --auto_cluster False (Osimertinib)
+
+o  Selecting 25 conformers using a combination of energies and Butina RMS-based clustering. Users might disable this option with --auto_cluster False (Afatinib)
+
+Time CSEARCH: 172.54 seconds
+
